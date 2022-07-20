@@ -4,7 +4,7 @@
 
 name="http_status"
 desc="Translating http status codes into sentences"
-rcvar=
+rcvar=${name}_enable
 
 command="/usr/local/bin/http_status" 
 
